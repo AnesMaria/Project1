@@ -30,7 +30,9 @@ A jupyter notebook is presented here that highlights work related to the questio
 The given code facilitates deriving the ultimate model utilized to forecast salary.
 
 4.  How to Interact with our project
+   
 The main findings of the code can be found at the post available here.
 
-5. Licensing, Authors, Acknowledgements
+6. Licensing, Authors, Acknowledgements
+   
 Acknowledgment is extended to Stack Overflow for supplying the dataset. For details on licensing and further information about the data, please refer to the Kaggle link given. Moreover, feel free to employ the code shared here per your requirements!
