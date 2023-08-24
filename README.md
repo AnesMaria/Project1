@@ -13,7 +13,7 @@ Table of Contents
 
 
 1. Installation
-There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
+You shouldn't need any libraries beyond the Anaconda distribution of Python to execute the code provided. The compatible code should function smoothly with Python versions 3.*.
 
 2. Project Motivation
 For this project, I was interestested in using Stack Overflow data from 2017 to better understand:
