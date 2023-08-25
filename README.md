@@ -21,5 +21,5 @@ I was interested in using Airbnb dataset to understand the diffrents variables t
 The main findings of the code can be found in the post available here.
 
 
-      5. Licensing, Authors, Acknowledgements:
+      5. Licensing, Authors and Acknowledgements:
 Acknowledgment is extended to Kaggle for supplying the dataset. For details on licensing and further information about the data, please refer to the Kaggle link given. Moreover, feel free to employ the code shared here per your requirements!
