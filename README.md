@@ -26,9 +26,10 @@ I was interested in using Airbnb dataset to understand the diffrents variables t
 
           4. How to Interact with our project:
 The main findings of the code can be found in the post available here.
+Blog link : https://medium.com/p/906b4bcab169/edit
 
 
       5. Licensing, Authors and Acknowledgements:
 Acknowledgment is extended to Kaggle for supplying the dataset. For details on licensing and further information about the data, please refer to the Kaggle link given. Moreover, feel free to employ the code shared here per your requirements!
 
-     6. Blog link : https://medium.com/p/906b4bcab169/edit
+     
