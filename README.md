@@ -11,6 +11,13 @@ Table of Contents:
 
       2. Project Motivation For this project: 
 I was interested in using Airbnb dataset to understand the diffrents variables to apply the theorical and paracticals learned concepts.
+    - Market Trends: Investors or potential hosts might be interested in how the market is growing, where the most popular locations are, and which are emerging as 
+     new hotspots.
+    - Guest Preferences: By looking at ratings, reviews, and amenities of the most booked places, hosts can understand what guests prioritize and then make 
+     improvements accordingly.
+    - Sentiment Analysis: By analyzing reviews, one can gauge the overall sentiment of guests, understand pain points, and identify areas of improvement.
+
+
 
 
         3. File Descriptions:
